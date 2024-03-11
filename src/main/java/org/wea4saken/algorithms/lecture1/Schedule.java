@@ -1,4 +1,5 @@
-package session1;
+// НЕ РАБОТАЕТ
+package org.wea4saken.algorithms.lecture1;
 
 import java.util.*;
 

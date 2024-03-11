@@ -1,10 +1,10 @@
-package session1;
+package org.wea4saken.algorithms.lecture1;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class BishopsAndRooks2 {
+public class BishopsAndRooks {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

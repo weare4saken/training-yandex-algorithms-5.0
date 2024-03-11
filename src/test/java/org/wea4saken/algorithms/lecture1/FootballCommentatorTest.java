@@ -1,11 +1,11 @@
-package session1;
+package org.wea4saken.algorithms.lecture1;
 
 import org.junit.jupiter.api.Test;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class FootballCommentatorTest {
 

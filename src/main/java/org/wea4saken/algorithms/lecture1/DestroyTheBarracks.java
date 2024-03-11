@@ -1,4 +1,4 @@
-package session1;
+package org.wea4saken.algorithms.lecture1;
 
 import java.util.Scanner;
 

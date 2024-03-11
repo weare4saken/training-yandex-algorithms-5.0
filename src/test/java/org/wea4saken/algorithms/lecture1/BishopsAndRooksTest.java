@@ -1,15 +1,17 @@
-package session1;
+package org.wea4saken.algorithms.lecture1;
 
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;
 import java.io.PrintStream;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class BishopsAndRooks2Test {
+
+public class BishopsAndRooksTest {
 
     @Test
     public void testCountEmptyCells() {
@@ -55,7 +57,7 @@ public class BishopsAndRooks2Test {
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
         System.setOut(new PrintStream(baos));
 
-        BishopsAndRooks2.main(new String[]{});
+        BishopsAndRooks.main(new String[]{});
 
         System.setIn(originalSystemIn);
         System.setOut(System.out);
