@@ -13,7 +13,8 @@ training-yandex-algorithms-5.0
 - [I. Расписание](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-1/src/main/java/org/wea4saken/algorithms/lecture1/Schedule.java) ❌
 - G. Форматирование документа ❌
 
-##### 7.5/10
+#### Total: 7.5 / 10
+#### Position: 1830 / 7710
 ___
 
 ### Занятие 2 (Линейный поиск)
