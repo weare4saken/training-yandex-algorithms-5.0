@@ -14,7 +14,7 @@ training-yandex-algorithms-5.0
 - G. Форматирование документа ❌
 
 #### Total: 7.5 / 10
-#### Position: 1830 / 7710
+#### Position: 1831 / 7723
 ___
 
 ### Занятие 2 (Линейный поиск)
@@ -24,11 +24,12 @@ ___
 - [C. Петя, Маша и верёвочки](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/MashaPetyaAndTheRopes.java) ✅
 - [D. Шахматная доска](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/Chessboard.java) ✅
 - [E. Амбициозная улитка](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/AmbitiousSnail.java) ✅
-- [F. Колесо фортуны]
-- [G. Ни больше, ни меньше]
-- [H. Наилучший запрет]
-- [I. Пираты Баренцевого моря]
-- [J. Два прфямоугольника]
+- [F. Колесо фортуны](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/WheelOfFortune.java) ❌
+- [G. Ни больше, ни меньше](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/NoMoreNoLess.java) ❌
+- H. Наилучший запрет ❌
+- I. Пираты Баренцевого моря ❌
+- J. Два прфямоугольника ❌
 
-#### Total: 
+#### Total: 5 / 10
 #### Position: 
+___
