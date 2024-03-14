@@ -18,3 +18,17 @@ training-yandex-algorithms-5.0
 ___
 
 ### Занятие 2 (Линейный поиск)
+
+- [А. Минимальный прямоугольник](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/MinimumRectangle.java) ✅
+- [B. Продавец рыбы](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/FishSeller.java) ✅
+- [C. Петя, Маша и верёвочки](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/MashaPetyaAndTheRopes.java) ✅
+- [D. Шахматная доска](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/Chessboard.java) ✅
+- [E. Амбициозная улитка]
+- [F. Колесо фортуны]
+- [G. Ни больше, ни меньше]
+- [H. Наилучший запрет]
+- [I. Пираты Баренцевого моря]
+- [J. Два прфямоугольника]
+
+#### Total: 
+#### Position: 
