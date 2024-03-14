@@ -25,11 +25,11 @@ ___
 - [D. Шахматная доска](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/Chessboard.java) ✅
 - [E. Амбициозная улитка](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/AmbitiousSnail.java) ✅
 - [F. Колесо фортуны](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/WheelOfFortune.java) ❌
-- [G. Ни больше, ни меньше](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/NoMoreNoLess.java) ❌
+- [G. Ни больше, ни меньше](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-2/src/main/java/org/wea4saken/algorithms/lecture2/NoMoreNoLess.java) ✅
 - H. Наилучший запрет ❌
 - I. Пираты Баренцевого моря ❌
 - J. Два прфямоугольника ❌
 
-#### Total: 5 / 10
+#### Total: 6 / 10
 #### Position: 
 ___
