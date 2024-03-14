@@ -8,15 +8,19 @@ public class NoMoreNoLess {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int t = scanner.nextInt();
-        for (int tests = 0; tests < t; ++tests) {
+
+        for (int i = 0; i < t; ++i) {
             int n = scanner.nextInt();
+
             int count = 0;
             List<Integer> segments = new ArrayList<>();
             int currentLength = 0;
             int maxLength = 0;
             boolean first = true;
-            for (int i = 0; i < n; ++i) {
+
+            for (int j = 0; j < n; ++j) {
                 int value = scanner.nextInt();
+
                 if (first) {
                     maxLength = value;
                     currentLength = 1;
@@ -29,11 +33,13 @@ public class NoMoreNoLess {
                         currentLength = 1;
                     } else {
                         ++currentLength;
+
                         if (maxLength > value) {
                             maxLength = value;
                         }
                     }
                 }
+
                 if (currentLength >= maxLength) {
                     segments.add(currentLength);
                     ++count;
@@ -46,10 +52,10 @@ public class NoMoreNoLess {
                 ++count;
             }
             System.out.println(count);
+
             for (int length : segments) {
                 System.out.print(length + " ");
             }
-            System.out.println();
         }
         scanner.close();
     }
