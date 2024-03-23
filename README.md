@@ -36,11 +36,11 @@ ___
 
 ### Занятие 3 (Множества и словари)
 
-- A. Плейлисты
-- B. Анаграмма?
-- C. Удаление чисел
-- D. Повторяющееся число
-- E. Два их трёх
+- [A. Плейлисты]()
+- [B. Анаграмма?](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/Anagram.java) ✅
+- [C. Удаление чисел](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/DeletingNumbers.java) ✅
+- [D. Повторяющееся число](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/RecurringNumber.java) ✅
+- [E. Два их трёх](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/TwoOutOfThree.java) ✅
 - F. Замена слова
 - G. Построить квадрат
 - H. Спички детям не игрушка!
@@ -66,3 +66,4 @@ ___
 
 #### Total:
 #### Position:
+___
