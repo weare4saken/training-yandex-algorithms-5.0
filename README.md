@@ -36,18 +36,18 @@ ___
 
 ### Занятие 3 (Множества и словари)
 
-- [A. Плейлисты]()
+- [A. Плейлисты](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/Playlists.java) ❌
 - [B. Анаграмма?](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/Anagram.java) ✅
 - [C. Удаление чисел](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/DeletingNumbers.java) ✅
 - [D. Повторяющееся число](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/RecurringNumber.java) ✅
 - [E. Два их трёх](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/TwoOutOfThree.java) ✅
 - [F. Замена слова](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/ReplacingWords.java) ✅
-- G. Построить квадрат
-- H. Спички детям не игрушка!
-- I. Играйте в футбол
-- J. P2P обновление
+- G. Построить квадрат ❌
+- H. Спички детям не игрушка! ❌
+- I. Играйте в футбол ❌
+- J. P2P обновление ❌
 
-#### Total:
+#### Total: 5.5 / 10
 #### Position:
 ___
 
