@@ -30,7 +30,7 @@ ___
 - I. Пираты Баренцевого моря ❌
 - J. Два прямоугольника ❌
 
-#### Total: 6 / 10
+#### Total: 6.5 / 10
 #### Position: 1595 / 3807
 ___
 
@@ -41,7 +41,7 @@ ___
 - [C. Удаление чисел](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/DeletingNumbers.java) ✅
 - [D. Повторяющееся число](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/RecurringNumber.java) ✅
 - [E. Два их трёх](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/TwoOutOfThree.java) ✅
-- F. Замена слова
+- [F. Замена слова](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/ReplacingWords.java) ✅
 - G. Построить квадрат
 - H. Спички детям не игрушка!
 - I. Играйте в футбол
