@@ -15,7 +15,6 @@ public class Anagram {
         } else {
             System.out.println("NO");
         }
-
         scanner.close();
     }
 
