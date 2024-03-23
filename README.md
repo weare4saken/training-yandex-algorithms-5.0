@@ -31,5 +31,39 @@ ___
 - J. Два прямоугольника ❌
 
 #### Total: 6 / 10
-#### Position: 
+#### Position: 1595 / 3807
+___
+
+### Занятие 3 (Множества и словари)
+
+- [A. Плейлисты]()
+- [B. Анаграмма?](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/Anagram.java) ✅
+- [C. Удаление чисел](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/DeletingNumbers.java) ✅
+- [D. Повторяющееся число](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/RecurringNumber.java) ✅
+- [E. Два их трёх](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/TwoOutOfThree.java) ✅
+- F. Замена слова
+- G. Построить квадрат
+- H. Спички детям не игрушка!
+- I. Играйте в футбол
+- J. P2P обновление
+
+#### Total:
+#### Position:
+___
+
+### Занятие 4 (Бинарный поиск)
+
+- A. Быстрый поиск в массиве
+- B. Одномерный морской бой
+- C. Саруман
+- D. Рапорт
+- E. Нумерация дробей
+- F. Велодорожки
+- G. Новый офис плюса
+- H. Выборы
+- I. Лапта
+- J. Дождик
+
+#### Total:
+#### Position:
 ___

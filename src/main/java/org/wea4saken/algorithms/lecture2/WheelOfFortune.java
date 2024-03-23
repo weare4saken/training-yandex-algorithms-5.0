@@ -1,5 +1,7 @@
 package org.wea4saken.algorithms.lecture2;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class WheelOfFortune {
@@ -12,19 +14,19 @@ public class WheelOfFortune {
         int k = scanner.nextInt();
 
         int maxValue = 0;
-        boolean first = true;
+        boolean isFirst = true;
 
-        int[] values = new int[n];
+        List<Integer> values = new ArrayList<>();
 
         for (int i = 0; i < n; ++i) {
             int value = scanner.nextInt();
-            if (first) {
-                first = false;
+            if (isFirst) {
+                isFirst = false;
                 maxValue = value;
             } else {
                 maxValue = Math.max(value, maxValue);
             }
-            values[i] = value;
+            values.add(value);
         }
 
         int startOffset = a / k;
@@ -42,7 +44,7 @@ public class WheelOfFortune {
             return;
         }
 
-        first = true;
+        isFirst = true;
         int startPosition = startOffset % n;
         int steps = 0;
 
@@ -55,22 +57,19 @@ public class WheelOfFortune {
             }
             reverseIndex %= n;
 
-            int value = values[index];
-            int reverseValue = values[reverseIndex];
+            int value = values.get(index);
+            int reverseValue = values.get(reverseIndex);
 
-            if (first) {
+            if (isFirst) {
                 maxValue = Math.max(value, reverseValue);
-                first = false;
+                isFirst = false;
             } else {
                 maxValue = Math.max(maxValue, Math.max(value, reverseValue));
             }
             ++steps;
-            if (steps > finishOffset - startOffset) {
-                break;
-            }
+            if (steps > finishOffset - startOffset) break;
         }
 
         System.out.println(maxValue);
-        scanner.close();
     }
 }
