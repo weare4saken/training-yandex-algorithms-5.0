@@ -7,17 +7,18 @@ import java.util.Set;
 public class Playlists {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int n = Integer.parseInt(scanner.nextLine());
+        int n = scanner.nextInt();
+        int k;
+        String sing;
         boolean first = true;
         Set<String> result = new HashSet<>();
 
         for (int i = 0; i < n; ++i) {
-            int k = Integer.parseInt(scanner.nextLine());
+            k = scanner.nextInt();
             Set<String> tmp = new HashSet<>();
 
             for (int j = 0; j < k; ++j) {
-                String sing = scanner.nextLine();
-
+                sing = scanner.next();
                 if (first) {
                     result.add(sing);
                 } else {
@@ -27,7 +28,10 @@ public class Playlists {
                 }
             }
 
-            result = new HashSet<>(tmp);
+            if (!first) {
+                result.retainAll(tmp);
+            }
+
             if (first) {
                 first = false;
             }
@@ -37,7 +41,5 @@ public class Playlists {
         for (String s : result) {
             System.out.print(s + " ");
         }
-
-        scanner.close();
     }
 }
