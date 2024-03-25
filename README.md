@@ -36,7 +36,7 @@ ___
 
 ### Занятие 3 (Множества и словари)
 
-- [A. Плейлисты](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/Playlists.java) ❌
+- [A. Плейлисты](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/Playlists.java) ✅
 - [B. Анаграмма?](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/Anagram.java) ✅
 - [C. Удаление чисел](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/DeletingNumbers.java) ✅
 - [D. Повторяющееся число](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-3/src/main/java/org/wea4saken/algorithms/lecture3/RecurringNumber.java) ✅
@@ -47,7 +47,7 @@ ___
 - I. Играйте в футбол ❌
 - J. P2P обновление ❌
 
-#### Total: 5.5 / 10
+#### Total: 6 / 10
 #### Position:
 ___
 
