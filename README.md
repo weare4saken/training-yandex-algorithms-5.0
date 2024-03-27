@@ -13,7 +13,7 @@ training-yandex-algorithms-5.0
 - [I. Расписание](https://github.com/weare4saken/training-yandex-algorithms-5.0/blob/lecture-1/src/main/java/org/wea4saken/algorithms/lecture1/Schedule.java) ❌
 - G. Форматирование документа ❌
 
-#### Total: 7.5 / 10
+#### Total: 7 (8) / 10
 #### Position: 1831 / 7723
 ___
 
@@ -30,7 +30,7 @@ ___
 - I. Пираты Баренцевого моря ❌
 - J. Два прямоугольника ❌
 
-#### Total: 6.5 / 10
+#### Total: 6 (7) / 10
 #### Position: 1595 / 3807
 ___
 
@@ -48,7 +48,7 @@ ___
 - J. P2P обновление ❌
 
 #### Total: 6 / 10
-#### Position:
+#### Position: 1864 / 2574
 ___
 
 ### Занятие 4 (Бинарный поиск)
